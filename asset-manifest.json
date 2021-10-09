@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Abraham-maker/RickAndMorty/static/css/main.d87cbb72.chunk.css",
+    "main.css": "/Abraham-maker/RickAndMorty/static/css/main.afd7172b.chunk.css",
     "main.js": "/Abraham-maker/RickAndMorty/static/js/main.8848ec19.chunk.js",
     "main.js.map": "/Abraham-maker/RickAndMorty/static/js/main.8848ec19.chunk.js.map",
     "runtime-main.js": "/Abraham-maker/RickAndMorty/static/js/runtime-main.009bef28.js",
@@ -8,13 +8,13 @@
     "static/js/2.70f7ecd9.chunk.js": "/Abraham-maker/RickAndMorty/static/js/2.70f7ecd9.chunk.js",
     "static/js/2.70f7ecd9.chunk.js.map": "/Abraham-maker/RickAndMorty/static/js/2.70f7ecd9.chunk.js.map",
     "index.html": "/Abraham-maker/RickAndMorty/index.html",
-    "static/css/main.d87cbb72.chunk.css.map": "/Abraham-maker/RickAndMorty/static/css/main.d87cbb72.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/Abraham-maker/RickAndMorty/static/css/main.afd7172b.chunk.css.map",
     "static/js/2.70f7ecd9.chunk.js.LICENSE.txt": "/Abraham-maker/RickAndMorty/static/js/2.70f7ecd9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.009bef28.js",
     "static/js/2.70f7ecd9.chunk.js",
-    "static/css/main.d87cbb72.chunk.css",
+    "static/css/main.afd7172b.chunk.css",
     "static/js/main.8848ec19.chunk.js"
   ]
 }
