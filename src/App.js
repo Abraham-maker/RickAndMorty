@@ -31,6 +31,8 @@ function App() {
     fetchCharacters(initialUrl);
   }, []);
 
+  
+
   return (
     <>
       <Navbar />
